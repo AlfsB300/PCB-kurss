@@ -1,0 +1,19 @@
+ERC report (23.03.2017. 10:50:58, Encoding UTF8 )
+
+***** Sheet /
+
+***** Sheet /block_1/
+
+***** Sheet /3,3V/
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (4,800 in,2,100 in): Pin 3 (Power input) of component U1 is not driven (Net 2).
+
+***** Sheet /5V/
+
+***** Sheet /9V/
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (4,800 in,2,450 in): Pin 2 (Power input) of component U3 is not driven (Net 1).
+
+***** Sheet /12V/
+
+ ** ERC messages: 2  Errors 0  Warnings 2

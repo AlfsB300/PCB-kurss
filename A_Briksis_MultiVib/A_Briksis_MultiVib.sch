@@ -33,7 +33,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 1
+Sheet 1 2
 Title "multivib"
 Date ""
 Rev ""
@@ -259,4 +259,15 @@ U 58CA7264
 F0 "poverpart" 60
 F1 "power.sch" 60
 $EndSheet
+$Comp
+L Q_PNP_EBC Q?
+U 1 1 58D3B588
+P 7300 4800
+F 0 "Q?" H 7500 4850 50  0000 L CNN
+F 1 "Q_PNP_EBC" H 7500 4750 50  0000 L CNN
+F 2 "" H 7500 4900 50  0000 C CNN
+F 3 "" H 7300 4800 50  0000 C CNN
+	1    7300 4800
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
