@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:/Users/Alfs Briksis/Desktop/testproject/PCB-kurss/Kursa_darbs_PCB/Kursa_darbs_PCB.sch</source>
+    <date>15.06.2017. 22:53:26</date>
+    <tool>Eeschema 4.0.5</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>PCB_kursa_darbs</title>
+        <company>Alfs Brikšis</company>
+        <rev/>
+        <date>2017-05-24</date>
+        <source>Kursa_darbs_PCB.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="R1">
+      <value>1K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>592539EB</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>10uF</value>
+      <footprint>Capacitors_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <libsource lib="device" part="CP1_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59253BF7</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>150K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59253E53</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>47K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59253E98</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>1K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59253ED4</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>2N2222</value>
+      <footprint>TO_SOT_Packages_THT:TO-92_Inline_Wide</footprint>
+      <libsource lib="device" part="Q_NPN_BCE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59253F4C</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>2N2222</value>
+      <footprint>TO_SOT_Packages_THT:TO-92_Inline_Wide</footprint>
+      <libsource lib="device" part="Q_NPN_BCE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59254158</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>15uF</value>
+      <footprint>Capacitors_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <libsource lib="device" part="CP1_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>592545F3</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>33nF</value>
+      <footprint>Capacitors_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <libsource lib="device" part="CP1_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5925464C</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>10uF</value>
+      <footprint>Capacitors_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <libsource lib="device" part="CP1_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5925CC8A</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>33K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5925E620</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>33K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5925E6DA</tstamp>
+    </comp>
+    <comp ref="Q3">
+      <value>2N2222</value>
+      <footprint>TO_SOT_Packages_THT:TO-92_Inline_Wide</footprint>
+      <libsource lib="device" part="Q_NPN_BCE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5925EDDB</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>1N4148</value>
+      <footprint>Diodes_THT:D_5KPW_P7.62mm_Vertical_AnodeUp</footprint>
+      <libsource lib="device" part="D_ALT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5925F56C</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>1N4148</value>
+      <footprint>Diodes_THT:D_5KPW_P7.62mm_Vertical_AnodeUp</footprint>
+      <libsource lib="device" part="D_ALT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59261614</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>470</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5926191C</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>4.7 ohm</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59261DD1</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>1K</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59262A06</tstamp>
+    </comp>
+    <comp ref="Q4">
+      <value>2N2907</value>
+      <footprint>TO_SOT_Packages_THT:TO-92_Inline_Wide</footprint>
+      <libsource lib="transistors" part="2SA1015"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59263D3D</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>4.7 ohm</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59264B9F</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>100uF</value>
+      <footprint>Capacitors_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <libsource lib="device" part="CP1_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59265513</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>220uF</value>
+      <footprint>Capacitors_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <libsource lib="device" part="CP1_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>592664F7</tstamp>
+    </comp>
+    <comp ref="Audio_IN1">
+      <value>Screw_Terminal_1x02</value>
+      <footprint>Connectors:AK300-2</footprint>
+      <libsource lib="conn" part="Screw_Terminal_1x02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59253895</tstamp>
+    </comp>
+    <comp ref="Audio_OUT1">
+      <value>Screw_Terminal_1x02</value>
+      <footprint>Connectors:AK300-2</footprint>
+      <libsource lib="conn" part="Screw_Terminal_1x02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59267741</tstamp>
+    </comp>
+    <comp ref="POWER1">
+      <value>Screw_Terminal_1x02</value>
+      <footprint>Connectors:AK300-2</footprint>
+      <libsource lib="conn" part="Screw_Terminal_1x02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5926E491</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="transistors" part="2SA1015">
+      <description>-50V Vce, -0.15A Ic, Low Noise Audio PNP Transistor, TO-92</description>
+      <docs>http://www.datasheetcatalog.org/datasheet/toshiba/905.pdf</docs>
+      <footprints>
+        <fp>TO-92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2SA1015</field>
+        <field name="Footprint">TO-92</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="B" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="CP1_Small">
+      <description>Polarised capacitor</description>
+      <footprints>
+        <fp>CP*</fp>
+        <fp>C_Axial*</fp>
+        <fp>C_Radial*</fp>
+        <fp>TantalC*</fp>
+        <fp>C*elec</fp>
+        <fp>c_elec*</fp>
+        <fp>SMD*_Pol</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP1_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="D_ALT">
+      <description>Diode, alternativ symbol</description>
+      <footprints>
+        <fp>Diode_*</fp>
+        <fp>D-*</fp>
+        <fp>*SingleDiode</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_ALT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="Q_NPN_BCE">
+      <description>Transistor NPN (general)</description>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NPN_BCE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="E" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="Screw_Terminal_1x02">
+      <description>2-pin screw terminal connector</description>
+      <footprints>
+        <fp>bornier2</fp>
+        <fp>TerminalBlock*2pol</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_1x02</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="conn">
+      <uri>C:\Program Files\KiCad\share\kicad\library\conn.lib</uri>
+    </library>
+    <library logical="transistors">
+      <uri>C:\Program Files\KiCad\share\kicad\library\transistors.lib</uri>
+    </library>
+    <library logical="device">
+      <uri>C:\Program Files\KiCad\share\kicad\library\device.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(C2-Pad2)">
+      <node ref="R6" pin="2"/>
+      <node ref="R7" pin="1"/>
+      <node ref="Q2" pin="1"/>
+      <node ref="C2" pin="2"/>
+    </net>
+    <net code="2" name="Net-(D1-Pad2)">
+      <node ref="D2" pin="1"/>
+      <node ref="D1" pin="2"/>
+    </net>
+    <net code="3" name="Net-(D2-Pad2)">
+      <node ref="R8" pin="1"/>
+      <node ref="D2" pin="2"/>
+      <node ref="Q3" pin="1"/>
+    </net>
+    <net code="4" name="Net-(Q3-Pad3)">
+      <node ref="Q3" pin="3"/>
+      <node ref="R9" pin="1"/>
+    </net>
+    <net code="5" name="Net-(C2-Pad1)">
+      <node ref="C3" pin="2"/>
+      <node ref="R4" pin="1"/>
+      <node ref="R3" pin="2"/>
+      <node ref="Q1" pin="2"/>
+      <node ref="C2" pin="1"/>
+    </net>
+    <net code="6" name="Net-(C3-Pad1)">
+      <node ref="R4" pin="2"/>
+      <node ref="C3" pin="1"/>
+      <node ref="R5" pin="1"/>
+      <node ref="C6" pin="2"/>
+    </net>
+    <net code="7" name="Earth">
+      <node ref="C6" pin="1"/>
+      <node ref="C5" pin="1"/>
+    </net>
+    <net code="8" name="Net-(Q4-Pad1)">
+      <node ref="R10" pin="1"/>
+      <node ref="Q4" pin="1"/>
+    </net>
+    <net code="9" name="Net-(D1-Pad1)">
+      <node ref="R7" pin="2"/>
+      <node ref="Q4" pin="3"/>
+      <node ref="D1" pin="1"/>
+      <node ref="Q2" pin="2"/>
+    </net>
+    <net code="10" name="Net-(Audio_OUT1-Pad2)">
+      <node ref="C4" pin="2"/>
+      <node ref="Audio_OUT1" pin="2"/>
+    </net>
+    <net code="11" name="Net-(C1-Pad2)">
+      <node ref="R1" pin="2"/>
+      <node ref="C1" pin="2"/>
+    </net>
+    <net code="12" name="Net-(Audio_IN1-Pad2)">
+      <node ref="R2" pin="2"/>
+      <node ref="Q1" pin="3"/>
+      <node ref="Q2" pin="3"/>
+      <node ref="Audio_OUT1" pin="1"/>
+      <node ref="POWER1" pin="1"/>
+      <node ref="Q4" pin="2"/>
+      <node ref="Audio_IN1" pin="2"/>
+      <node ref="R6" pin="1"/>
+    </net>
+    <net code="13" name="Net-(Audio_IN1-Pad1)">
+      <node ref="R1" pin="1"/>
+      <node ref="Audio_IN1" pin="1"/>
+    </net>
+    <net code="14" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1"/>
+      <node ref="R3" pin="1"/>
+      <node ref="R2" pin="1"/>
+      <node ref="Q1" pin="1"/>
+    </net>
+    <net code="15" name="+5V">
+      <node ref="R5" pin="2"/>
+      <node ref="Q3" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="R8" pin="2"/>
+      <node ref="POWER1" pin="2"/>
+    </net>
+    <net code="16" name="Net-(C4-Pad1)">
+      <node ref="R9" pin="2"/>
+      <node ref="C4" pin="1"/>
+      <node ref="R10" pin="2"/>
+    </net>
+  </nets>
+</export>

@@ -1,0 +1,16 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"Q4";"TO-92_Inline_Wide";1;"2N2907";;;
+2;"C6,C1";"CP_Radial_D8.0mm_P5.00mm";2;"10uF";;;
+3;"Audio_OUT1,Audio_IN1,POWER1";"AK300-2";3;"Screw_Terminal_1x02";;;
+4;"C2";"CP_Radial_D8.0mm_P5.00mm";1;"15uF";;;
+5;"C3";"CP_Radial_D8.0mm_P5.00mm";1;"33nF";;;
+6;"C4";"CP_Radial_D8.0mm_P5.00mm";1;"220uF";;;
+7;"C5";"CP_Radial_D8.0mm_P5.00mm";1;"100uF";;;
+8;"D1,D2";"D_5KPW_P7.62mm_Vertical_AnodeUp";2;"1N4148";;;
+9;"Q1,Q2,Q3";"TO-92_Inline_Wide";3;"2N2222";;;
+10;"R1,R4,R8";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";3;"1K";;;
+11;"R2";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";1;"47K";;;
+12;"R3";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";1;"150K";;;
+13;"R5";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";1;"470";;;
+14;"R6,R7";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";2;"33K";;;
+15;"R9,R10";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";2;"4.7 ohm";;;
